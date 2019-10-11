@@ -5,4 +5,4 @@ Here the topics for each of the customer feedback is detected using topic modell
 
 The resultant dataframe is transferred back to the database and from there to BI tool - Qlik Sense. So that topics share could be analyzed over time and it is also possible for business users to reflect on the specific topic by filtering and looking into relevant customer feedback. 
 
-Please note: data and results aren't shared explicitly due to privacy reasons. This is only to showcase the approach towards analysis.  
+Please note: Data, results and other confidential information aren't shared explicitly due to privacy reasons. This is only to showcase the approach towards analysis.  
